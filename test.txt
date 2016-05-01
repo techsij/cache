@@ -4,3 +4,4 @@ test file
 2
 x
 y z
+d
